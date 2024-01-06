@@ -1,9 +1,9 @@
 # SMMS (Soil Moisture Monitoring System)
 
 ## Hardware
-    **Arduino Uno R3** [Store - botland.com.pl](https://botland.com.pl)
-    **Digital Screen I2C LCM1602 2X16** [Store - botland.com.pl](https://botland.com.pl/wyswietlacze-alfanumeryczne-i-graficzne/2351-wyswietlacz-lcd-2x16-znakow-niebieski-     konwerter-i2c-lcm1602-5904422309244.html)
-    **Soil Moisture Sensor** [Store - botland.com.pl](https://botland.com.pl/czujniki-wilgotnosci/1588-czujnik-wilgotnosci-gleby-5904422368289.html)
+**Arduino Uno R3** [Store - botland.com.pl](https://botland.com.pl)
+**Digital Screen I2C LCM1602 2X16** [Store - botland.com.pl](https://botland.com.pl/wyswietlacze-alfanumeryczne-i-graficzne/2351-wyswietlacz-lcd-2x16-znakow-niebieski-     konwerter-i2c-lcm1602-5904422309244.html)
+**Soil Moisture Sensor** [Store - botland.com.pl](https://botland.com.pl/czujniki-wilgotnosci/1588-czujnik-wilgotnosci-gleby-5904422368289.html)
 
 ## Conection 
 
@@ -19,8 +19,8 @@
 |  A0   |       |  A0   |
 
 
-##Library 
-    LiquidCrystal_I2C-1.1.2
+## Library 
+[LiquidCrystal_I2C-1.1.2](https://www.arduinolibraries.info/libraries/liquid-crystal-i2-c)
 
 
 ## Description
