@@ -2,8 +2,8 @@
 
 ## Hardware
 **Arduino Uno R3** [Store - botland.com.pl](https://botland.com.pl)  
-**Digital Screen I2C LCM1602 2X16** [Store - botland.com.pl](https://botland.com.pl/wyswietlacze-alfanumeryczne-i-graficzne/2351-wyswietlacz-lcd-2x16-znakow-niebieski-konwerter-i2c-lcm1602-5904422309244.html)
-  **Soil Moisture Sensor** [Store - botland.com.pl](https://botland.com.pl/czujniki-wilgotnosci/1588-czujnik-wilgotnosci-gleby-5904422368289.html)  
+**Digital Screen I2C LCM1602 2X16** [Store - botland.com.pl](https://botland.com.pl/wyswietlacze-alfanumeryczne-i-graficzne/2351-wyswietlacz-lcd-2x16-znakow-niebieski-konwerter-i2c-lcm1602-5904422309244.html)  
+**Soil Moisture Sensor** [Store - botland.com.pl](https://botland.com.pl/czujniki-wilgotnosci/1588-czujnik-wilgotnosci-gleby-5904422368289.html)  
 
 ## Conection 
 
